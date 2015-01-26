@@ -6,5 +6,5 @@ var HelloMessage = React.createClass({
 	}
 })
 
-React.render(<HelloMessage subject='Nerd'/>, document.body)
+React.render(<HelloMessage subject='Nerd'/>, document.body);
 
